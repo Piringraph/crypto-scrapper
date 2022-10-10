@@ -18,6 +18,7 @@ async function getPriceFeed() {
             'rank',
             'name',
             'price',
+            '1h',
             '24h',
             '7d',
             'marketCap',
